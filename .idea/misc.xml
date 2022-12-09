@@ -3,9 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/MRs.MARGARETHA/Documents/GitHub/Culture_n_Go/app/src/main/res/drawable-v24/shape_toolbar01.xml" value="0.115" />
+        <entry key="..\:/Users/MRs.MARGARETHA/Documents/GitHub/Culture_n_Go/app/src/main/res/drawable/ic_back_white.xml" value="0.1" />
+        <entry key="..\:/Users/MRs.MARGARETHA/Documents/GitHub/Culture_n_Go/app/src/main/res/drawable/shape_edittext01.xml" value="0.1" />
+        <entry key="..\:/Users/MRs.MARGARETHA/Documents/GitHub/Culture_n_Go/app/src/main/res/layout/activity_edit_profile.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/MRs.MARGARETHA/Documents/GitHub/Culture_n_Go/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/Users/MRs.MARGARETHA/Documents/GitHub/Culture_n_Go/app/src/main/res/layout/activity_sign_in.xml" value="0.259375" />
+        <entry key="..\:/Users/MRs.MARGARETHA/Documents/GitHub/Culture_n_Go/app/src/main/res/layout/edit_profile_activity.xml" value="0.152" />
+        <entry key="..\:/Users/MRs.MARGARETHA/Documents/GitHub/Culture_n_Go/app/src/main/res/layout/editprofile_activity.xml" value="0.152" />
         <entry key="..\:/Users/Naufal/Documents/GitHub/Culture_n_Go/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
-        <entry key="..\:/Users/Naufal/Documents/GitHub/Culture_n_Go/app/src/main/res/layout/activity_sign_in.xml" value="0.41050583657587547" />
-        <entry key="..\:/Users/Naufal/Documents/GitHub/Culture_n_Go/app/src/main/res/layout/login.xml" value="0.22826086956521738" />
       </map>
     </option>
   </component>
