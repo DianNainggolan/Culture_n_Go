@@ -62,25 +62,9 @@
                 android:id="@+id/etName"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Name"
+                android:hint="Nama"
                 android:background="@drawable/shape_edittext01"
                 android:drawablePadding="10dp"/>
-
-        </com.google.android.material.textfield.TextInputLayout>
-
-        <com.google.android.material.textfield.TextInputLayout
-            android:id="@+id/tilEmail"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="30dp"
-            android:layout_below="@+id/tilName">
-
-            <EditText
-                android:id="@+id/etEmail"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:hint="Email"
-                android:background="@drawable/shape_edittext01"/>
 
         </com.google.android.material.textfield.TextInputLayout>
 
@@ -89,13 +73,13 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="30dp"
-            android:layout_below="@+id/tilEmail">
+            android:layout_below="@+id/tilName">
 
             <EditText
                 android:id="@+id/etContact"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Contact"
+                android:hint="Kontak"
                 android:background="@drawable/shape_edittext01"/>
 
         </com.google.android.material.textfield.TextInputLayout>
