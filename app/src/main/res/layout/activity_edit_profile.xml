@@ -106,7 +106,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_below="@+id/tilAlamat"
-            android:textColor="@color/white"
+            android:textColor="@color/black"
+            android:backgroundTint="@color/red"
             android:text="Edit"/>
 
     </RelativeLayout>
